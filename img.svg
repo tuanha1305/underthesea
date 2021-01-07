@@ -1,24 +1,172 @@
 
-        <svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+        <svg width="1600" height="800" xmlns="http://www.w3.org/2000/svg">
         <g>
           <title>image</title>
-          <rect fill="#2f3020" id="canvas_background" height="800" width="800" y="0" x="0"/>
+          <rect fill="#2f3020" id="canvas_background" height="800" width="1600" y="0" x="0"/>
         </g>
         
         <g>
           <path d="M 115 380 Q 147 320, 180 380" stroke="#f2f2f2" fill="none"/>
           <path d="M 113 375 L 118 385 122 375z" stroke="#f2f2f2" fill="#f2f2f2"/>
         
-        <text font-weight="normal" xml:space="preserve" text-anchor="start"
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
           font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
-          font-size="14" y="400" x="5" stroke-width="0" stroke="#000" fill="#f2f2f2">
-          Theo Bloomberg, ông Joe Biden sẽ nhận nhiệm sở vào tháng tới
+          font-size="14" y="400" x="20" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          Theo
         </text>
         
-        <text font-weight="normal" xml:space="preserve" text-anchor="start"
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
           font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
-          font-size="12" y="365" x="57" stroke-width="0" stroke="#000" fill="#f2f2f2">
-          obj
+          font-size="14" y="400" x="88" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          Bloomberg
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="191" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          ,
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="238" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          ông
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="299" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          Joe&#160;Biden
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="402" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          sẽ
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="456" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          nhận
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="524" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          nhiệm&#160;sở
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="620" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          vào
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="681" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          tháng
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="756" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          tới
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="817" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          với
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="878" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          nhiều
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="953" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          đòn&#160;bẩy
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="1042" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          hơn
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="1103" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          để
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="1157" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          đối&#160;phó
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="1246" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          với
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="1307" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          Trung&#160;Quốc
+        </text>
+        
+        <text font-weight="normal"
+          text-anchor="start"
+          white-space="pre"
+          font-family="Courier New,Roboto Mono,Helvetica, Arial, sans-serif"
+          font-size="14" y="400" x="1417" stroke-width="0" stroke="#000" fill="#f2f2f2">
+          .
         </text>
         
         </g>
